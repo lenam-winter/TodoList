@@ -1,6 +1,6 @@
 # 🚀 TaskPro - Advanced Task Management Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Project-blue?style=for-the-badge)](Link_website_cua_ban_sau_khi_deploy)
+[![Live Demo](https://lenam-winter.github.io/TodoList/)
 [![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![CSS3](https://img.shields.io/badge/CSS3-Modern_UI-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
